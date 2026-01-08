@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Because...feat.中村舞子",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-01-08T04:51:22.219499Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Because... feat. 中村舞子",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Because..._feat._中村舞子_LGYankees.txt"
+    }
+  ]
+}
